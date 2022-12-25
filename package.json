@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EttisafRup/weexschools-node.git"
+    "url": "git+https://github.com/EttisafRup/weex-back"
   },
   "keywords": [
     "weexschools",
@@ -19,9 +19,9 @@
   "author": "Ettisaf Rup",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EttisafRup/weexschools-node/issues"
+    "url": "https://github.com/EttisafRup/weex-back"
   },
-  "homepage": "https://github.com/EttisafRup/weexschools-node#readme",
+  "homepage": "https://github.com/EttisafRup/weex-back#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
